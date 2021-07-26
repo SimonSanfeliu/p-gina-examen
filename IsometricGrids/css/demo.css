@@ -55,7 +55,6 @@ a:hover, a:focus {
 	position: absolute;
 	width: 100%;
 	z-index: 2000;
-	pointer-events: none;
 }
 
 .demo-1 .codrops-header {
